@@ -2,6 +2,8 @@
 
 Welcome to the [Game Installer] installation guide. Follow these steps to set up and run the application.
 
+[简体中文](https://github.com/changcheng967/Game-Installer/blob/main/Chinese.md)
+
 ## Step 1: Download the Setup
 1. Go to the [File](https://github.com/changcheng967/Game-Installer/blob/main/setup.exe) and click the download button.
 2. Save the `setup.exe` file to an easy-to-access directory (e.g., Desktop or Downloads).
@@ -27,4 +29,4 @@ Thank you for using [Game Installer]. For any issues, please refer to the [GitHu
 
 ---
 
-By following these steps, you should have the application up and running smoothly. Good luck! 🚀
+By following these steps, you should have the application up and running smoothly. Good luck!
