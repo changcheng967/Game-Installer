@@ -3,7 +3,7 @@
 Welcome to the [Game Installer] installation guide. Follow these steps to set up and run the application.
 
 ## Step 1: Download the Setup
-1. Go to the [GitHub repository](https://github.com/changcheng967/Game-Installer) and download `setup.exe`.
+1. Go to the [File](https://github.com/changcheng967/Game-Installer/blob/main/setup.exe) and click the download button.
 2. Save the `setup.exe` file to an easy-to-access directory (e.g., Desktop or Downloads).
 
 ## Step 2: Run the Installer
